@@ -30,11 +30,11 @@
 <p>Today I did 3 sections in Introduction to Javascript. Doesn't sound or look like much, but there was a Counting Cards project that I was determined to get on my own without watching a tutorial of it... I 90% did it. I'm proud I made it as far as I did on my own and I'll just make it a goal next mini project to finish without any tutorial. But that is why I only did 3 sections today. Tomorrow gets into Objects, so excited to start that and see what it brings!</p><p>PS: I subconsciously convinced a coworker to start 100 Days as well and he starts next week working on Python. We will help keep each other motivated and accountable.<img src="https://github.com/GabbyJ/100-Days-of-Code/blob/master/muscleEmoji.png" width="15px" height="15px" style="text-align: center" alt=""/> #TeamworkMakesTheDreamWork</p>
 <p><strong>Today's completed lessons</strong></p>
 <p><img src="https://github.com/GabbyJ/100-Days-of-Code/blob/master/Day%203%20screenshot.png" width="50%" height="50%" style="text-align: center" alt=""/></p>
-
 <p><strong>Day 4: April 4. Thursday</strong></p>
-<!--<p>Today I did 3 sections in Introduction to Javascript. Doesn't sound or look like much, but there was a Counting Cards project that I was determined to get on my own without watching a tutorial of it... I 90% did it. I'm proud I made it as far as I did on my own and I'll just make it a goal next mini project to finish without any tutorial. But that is why I only did 3 sections today. Tomorrow gets into Objects, so excited to start that and see what it brings!</p><p>PS: I subconsciously convinced a coworker to start 100 Days as well and he starts next week working on Python. We will help keep each other motivated and accountable.</p>
-<p><strong>Today's completed lessons</strong></p>
+<p>Sadly, I didn't get a chance to do anything today. But this is not the beginning of the end for failing 100 days AGAIN.</p>
+<!--<p><strong>Today's completed lessons</strong></p>
 <p><img src="https://github.com/GabbyJ/100-Days-of-Code/blob/master/Day%203%20screenshot.png" width="50%" height="50%" style="text-align: center" alt=""/></p>-->
+<p><strong>Day 5: April 5. Friday</strong></p>
 <h2>Quarter 2: April 26- May 20</h2>
 <h2>Quarter 3: May 21- June 14</h2>
 <h2>Quarter 4: June 15- July 9</h2>
