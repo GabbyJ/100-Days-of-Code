@@ -32,10 +32,11 @@
 <p><img src="https://github.com/GabbyJ/100-Days-of-Code/blob/master/Day%203%20screenshot.png" width="50%" height="50%" style="text-align: center" alt=""/></p>
 <p><strong>Day 4: April 4. Thursday</strong></p>
 <p>Sadly, I didn't get a chance to do anything today. But this is not the beginning of the end for failing 100 days AGAIN.</p>
-<!--<p><strong>Today's completed lessons</strong></p>
-<p><img src="https://github.com/GabbyJ/100-Days-of-Code/blob/master/Day%203%20screenshot.png" width="50%" height="50%" style="text-align: center" alt=""/></p>-->
 <p><strong>Day 5: April 5. Friday</strong></p>
-<p>Today I worked on Objects. How to create them, update them, add, delete, and use it for lookups. It also talked about dot vs. bracket notation and when to use them. Tomorrow I will be working on While and For loops.</p>
+<p>Today I completed 12 lessons in Introduction to Javascript about Objects. How to create, update, add, delete, and use it for lookups. It also talked about dot vs. bracket notation and when to use them. I feel like I'm getting it all pretty well, but tomorrow I will do a mini project to wrap up Objects and make sure I'm actually understanding/remembering what I'm learning, then the next section is While and For loops.</p>
+<p><strong>Today's completed lessons</strong></p>
+<p><img src="https://github.com/GabbyJ/100-Days-of-Code/blob/master/Day%205%20screenshot.png" width="50%" height="50%" style="text-align: center" alt=""/></p>
+<p><strong>Day 6: April 6. Saturday</strong></p>
 <h2>Quarter 2: April 26- May 20</h2>
 <h2>Quarter 3: May 21- June 14</h2>
 <h2>Quarter 4: June 15- July 9</h2>
