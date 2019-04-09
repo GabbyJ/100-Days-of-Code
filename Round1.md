@@ -39,6 +39,7 @@
 <p><strong>Day 6: April 6. Saturday</strong></p>
 <p><strong>Day 7: April 7. Sunday</strong></p>
 <p>Weekend updates coming tomorrow.</p>
+<p><strong>Day 8: April 8. Monday</strong></p>
 <h2>Quarter 2: April 26- May 20</h2>
 <h2>Quarter 3: May 21- June 14</h2>
 <h2>Quarter 4: June 15- July 9</h2>
