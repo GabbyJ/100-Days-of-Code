@@ -38,9 +38,15 @@
 <p><img src="https://github.com/GabbyJ/100-Days-of-Code/blob/master/Day%205%20screenshot.png" width="50%" height="50%" style="text-align: center" alt=""/></p>
 <p><strong>Day 6: April 6. Saturday</strong></p>
 <p><strong>Day 7: April 7. Sunday</strong></p>
-<p>Weekend updates coming tomorrow.</p>
+<p>Weekend updates coming...</p>
 <p><strong>Day 8: April 8. Monday</strong></p>
+<p>I started working on a mini project that really has me quite lost. I'm working through it and hope I will have something to physically show you tomorrow</p>
 <p><strong>Day 9: April 9. Tuesday</strong></p>
+<p>Today I finished the mini project. I had a hard time with it and needed to search for a lot of help. I will need to come back to those topics. But as of now, I don't want to get choked up on one topic. Maybe it'll make more sense in the big picture later on.</p>
+<p><strong>Today's completed lessons</strong></p>
+<p><img src="https://github.com/GabbyJ/100-Days-of-Code/blob/master/images/fcc%20record%20collection.png" width="50%" height="50%" style="text-align: center" alt=""/></p>
+<p><img src="https://github.com/GabbyJ/100-Days-of-Code/blob/master/images/record%20colleciton%20screenshot.png" width="50%" height="50%" style="text-align: center" alt=""/></p>
+<p><strong>Day 10: April 10. Wednesday</strong></p>
 <h2>Quarter 2: April 26- May 20</h2>
 <h2>Quarter 3: May 21- June 14</h2>
 <h2>Quarter 4: June 15- July 9</h2>
