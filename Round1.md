@@ -47,6 +47,7 @@
 <p><img src="https://github.com/GabbyJ/100-Days-of-Code/blob/master/images/fcc%20record%20collection.png" width="50%" height="50%" style="text-align: center" alt=""/></p>
 <p><img src="https://github.com/GabbyJ/100-Days-of-Code/blob/master/images/record%20colleciton%20screenshot.png" width="50%" height="50%" style="text-align: center" alt=""/></p>
 <p><strong>Day 10: April 10. Wednesday</strong></p>
+<p><strong>Day 11: April 11. Thursday</strong></p>
 <h2>Quarter 2: April 26- May 20</h2>
 <h2>Quarter 3: May 21- June 14</h2>
 <h2>Quarter 4: June 15- July 9</h2>
