@@ -50,6 +50,7 @@
 <p><strong>Day 11: April 11. Thursday</strong></p>
 <p><strong>Day 12: April 12. Friday</strong></p>
 <p>Today I experimented with <a href = "https://everlive.io/class/live/" target="_blank">everlive.io</a>. It is a beta site that has live 1-3hr 1-2x per week lessons about different programming topics. I started a Javascript class where the first lesson is called "Intro to Javascript for the Web". It seems good so far. I think I will try to use it to reinforce my FreeCodeCamp learning since I will be finishing the Intro to JS section soon.</p>
+<p><strong>Day 13: April 13. Saturday</strong></p>
 <h2>Quarter 2: April 26- May 20</h2>
 <h2>Quarter 3: May 21- June 14</h2>
 <h2>Quarter 4: June 15- July 9</h2>
